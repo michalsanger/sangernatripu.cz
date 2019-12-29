@@ -1,0 +1,1 @@
+# sangernatripu.cz
