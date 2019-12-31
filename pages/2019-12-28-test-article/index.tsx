@@ -36,6 +36,9 @@ const article = () => (
         vel iaculis.
       </p>
       <p>
+        <img className="thumbnail" src="/photos/hawaii-sunset.jpg" />
+      </p>
+      <p>
         Nullam porta turpis nunc, non sagittis risus varius at. Phasellus at quam vitae diam
         imperdiet vehicula. Morbi vulputate augue est, in interdum mi accumsan ac. Etiam at euismod
         nulla. Etiam laoreet urna sit amet vehicula imperdiet. Curabitur faucibus turpis a placerat
