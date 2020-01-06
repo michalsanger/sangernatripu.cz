@@ -5,7 +5,7 @@ const index = () => (
   <>
     <div className="callout large primary">
       <div className="row column text-center">
-        <h1>Sänger na tripu</h1>
+        <h1>Sänger na tripu TEST</h1>
       </div>
     </div>
 
