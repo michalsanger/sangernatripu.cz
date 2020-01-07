@@ -1,6 +1,8 @@
 import React from "react";
 import Head from "next/head";
 import { NextComponentType } from "next";
+import Router from "next/router";
+import { pageview } from "../lib/gtag";
 
 type Props = {
   Component: NextComponentType;
@@ -17,5 +19,7 @@ const MyApp = ({ Component, pageProps }: Props) => {
     </>
   );
 };
+
+Router.events.on("routeChangeComplete", url => pageview(url));
 
 export default MyApp;
