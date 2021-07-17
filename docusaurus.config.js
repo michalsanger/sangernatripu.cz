@@ -8,7 +8,7 @@ module.exports = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "favicon.ico",
   projectName: "sangernatripu.cz", // Usually your repo name.
   i18n: {
     defaultLocale: "cs",
