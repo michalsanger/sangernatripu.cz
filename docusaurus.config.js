@@ -10,6 +10,10 @@ module.exports = {
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   projectName: "sangernatripu.cz", // Usually your repo name.
+  i18n: {
+    defaultLocale: "cs",
+    locales: ["cs"],
+  },
   themeConfig: {
     navbar: {
       title: "Sänger na tripu",
