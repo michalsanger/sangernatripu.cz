@@ -27,3 +27,16 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+.gallery {
+  margin-left: -4px;
+}
+
+.gallery .photo {
+  height: 185px;
+  width: 185px;
+  padding: 4px;
+  margin: 4px;
+  border: 1px solid #cacaca;
+  border-radius: 4px;
+}
