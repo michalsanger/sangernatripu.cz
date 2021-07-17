@@ -59,4 +59,5 @@ module.exports = {
       },
     ],
   ],
+  plugins: [["@docusaurus/plugin-ideal-image", { sizes: [1024] }]],
 };
