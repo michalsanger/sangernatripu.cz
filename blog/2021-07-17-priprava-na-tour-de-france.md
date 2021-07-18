@@ -3,7 +3,7 @@ title: Příprava na Tour de France
 tags: [Francie, Burgundsko, Normandie, Bretaň]
 ---
 
-Woody Allen prý řekl: _"Chceš-li pobavit Boha, seznam ho se svými plány do budoucna."_ My jsme ho tedy zkusili pobavit okružní cestou po severní polovině Francie a tady jsou poznámky z našeho plánování.
+Woody Allen prý řekl: _"Chceš-li pobavit Boha, seznam ho se svými plány do budoucna"_. My jsme ho tedy zkusili pobavit okružní cestou po severní polovině Francie a tady jsou poznámky z našeho plánování.
 
 <!-- truncate -->
 
