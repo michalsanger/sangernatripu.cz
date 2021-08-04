@@ -5,6 +5,7 @@ tags: [Francie, Burgundsko, Víno]
 
 import Photo from '/src/components/Photo'
 import Gallery from '/src/components/Gallery'
+import Map from '/src/components/Map'
 
 Domaine Faiveley je jedno z největších vinařství v Burgundsku a na exkurzi jsme se tam vypravili hned druhý den po příjezdu.
 
@@ -47,4 +48,4 @@ Místo plánované hodiny a půl se naše návštěva natáhla na skoro tři hod
 
 Jejich exkluzivní vína mají i exkluzivní ceny, něco málo jsem si nakoupil na slavnostní příležitosti domů, držel jsem se rady, že nejzajímavější burgundská jsou bílá. Celkově bych svým laickým úsudkem tohle vinařství zhodnotil velmi kladně, přijde mi že se tady setkala touha dělat precizní vína, spičková lokalita i dostatek prostředků, takže na ničem nemuseli šetřit. Těším se až si někdy od nich dovezenou lahev otevřu!
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10856.489988759718!2d4.946523519599824!3d47.13586610776527!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe00eadfab4bc9ac6!2sDomaine%20Faiveley!5e0!3m2!1sen!2scz!4v1628117841637!5m2!1sen!2scz" width="100%" height="400" style={{border:0}} allowfullscreen="" loading="lazy" />
+<Map src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10856.489988759718!2d4.946523519599824!3d47.13586610776527!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe00eadfab4bc9ac6!2sDomaine%20Faiveley!5e0!3m2!1sen!2scz!4v1628117841637!5m2!1sen!2scz" />

@@ -5,6 +5,7 @@ tags: [Francie, Burgundsko, Art]
 
 import Photo from '/src/components/Photo'
 import Gallery from '/src/components/Gallery'
+import Map from '/src/components/Map'
 
 Naprostou náhodou jsem při plánování výletu do Burgundska narazil na opuštěný lom, který byl přetvořen na kulturní prostor nabušený kvalitním uměním.
 
@@ -14,7 +15,7 @@ Naprostou náhodou jsem při plánování výletu do Burgundska narazil na opuš
 
 To si tak sjíždím Instagram a [Mode2](https://www.instagram.com/mode2official/) tam ve stories zmínil, že se zase chystá malovat do Burgundska. Tak hledám, pátrám, zjišťuju a nakonec to najdu - [La Karrière](http://www.lakarriere.fr/).
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2713.6528337210043!2d4.907743715686949!3d47.14506717915671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f28e4a417ff6af%3A0xd708d6425e9f8b4c!2sLa%20Karri%C3%A8re%20-%2021700%20Villars-Fontaine!5e0!3m2!1sen!2scz!4v1627809142162!5m2!1sen!2scz" width="100%" height="400" style={{border:0}} allowfullscreen="" loading="lazy" />
+<Map src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2713.6528337210043!2d4.907743715686949!3d47.14506717915671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f28e4a417ff6af%3A0xd708d6425e9f8b4c!2sLa%20Karri%C3%A8re%20-%2021700%20Villars-Fontaine!5e0!3m2!1sen!2scz!4v1627809142162!5m2!1sen!2scz" />
 
 Místní obyvatelé lom, který byl od roku 2003 zavřený a určený k zasypaní, vyčistili a přetvořili v místo kulturních akcí. Na obří kamenné stěny tam už malovala slušná sestava umělců, pro mě nejvíc zajímavá je trojice [Delta](https://www.instagram.com/boris_tellegen/), [Mode2](https://www.instagram.com/mode2official/) a [Futura 2000](https://www.instagram.com/futuradosmil/).
 
