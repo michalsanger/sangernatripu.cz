@@ -10,7 +10,7 @@ První večeře po příjezdu do Beaune, kam jsme dorazili bez rezervace, což s
 
 <!-- truncate -->
 
-To stěstí mělo dvě části. První spočívala v tom, že jsme zašli do La [Dilettante](/2021/07/19/la-dilettante), kde nám tento podnik doporučili. Druhá část štěstí byla o tom, že ačkoliv měli plno, doporučili nám zkusit přijít za hodinu a možná se už některý stůl uvolní.
+To stěstí mělo dvě části. První spočívala v tom, že jsme zašli do [La Dilettante](/2021/07/19/la-dilettante), kde nám tento podnik doporučili. Druhá část štěstí byla o tom, že ačkoliv měli plno, doporučili nám zkusit přijít za hodinu a možná se už některý stůl uvolní.
 
 <Photo photo={require('./photos/2021-07-19-les-popiettes/IMG_6723.jpg')} />
 
