@@ -5,6 +5,7 @@ tags: [Francie, Burgundsko, Beaune, bistro]
 
 import Photo from '/src/components/Photo'
 import Gallery from '/src/components/Gallery'
+import Map from '/src/components/Map'
 
 Sem vedly naše kroky hned v podvečer po příjezdu do Beaune. Malé bistro s dobrým výběrem vín a nekomplikovanou nabídkou jídla, to bylo přesně co jsme potřebovali po celodenním přesunu z Prahy.
 
@@ -36,7 +37,7 @@ Co říct závěrem? Rozhodně doporučuju do [La Dilettante](https://www.facebo
 
 <Photo photo={require('./photos/2021-07-19-la-dilettante/IMG_6705.jpg')} />
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10879.804575897198!2d4.833009!3d47.021564!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xde4b5744363dba8f!2sLa%20Dilettante!5e0!3m2!1sen!2scz!4v1627817606414!5m2!1sen!2scz" width="100%" height="400" style={{border:0}} allowfullscreen="" loading="lazy" />
+<Map src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10879.804575897198!2d4.833009!3d47.021564!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xde4b5744363dba8f!2sLa%20Dilettante!5e0!3m2!1sen!2scz!4v1627817606414!5m2!1sen!2scz" />
 
 <Gallery photos={[
 require('./photos/2021-07-19-la-dilettante/IMG_6810.jpg'),

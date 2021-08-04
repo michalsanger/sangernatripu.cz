@@ -5,6 +5,7 @@ tags: [Francie, Burgundsko, Beaune, restaurace]
 
 import Photo from '/src/components/Photo'
 import Gallery from '/src/components/Gallery'
+import Map from '/src/components/Map'
 
 První večeře po příjezdu do Beaune, kam jsme dorazili bez rezervace, což se v tomto městečku nevyplácí. Naštěstí jsme však měli štěstí! :-)
 
@@ -46,7 +47,7 @@ U dezertu si byl personál dobře vědom jeho kvalit, takže nám donesl rovnou 
 
 Nevím kdy se do Beaune zase podívám, ale nastane-li to, tak si budu do Les Popiettes rozdně chtít udělat rezervaci. Nejlépe zase ve čtyřech, ať je šance ochutnat komplet menu. Levné to zrovna nebylo, ale bylo to tak neuvěřitelně dobré a za to je radost si připlatit!
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10879.61819356828!2d4.8392708!3d47.0224786!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x63d7470a3d40dd6b!2sLes%20Popiettes!5e0!3m2!1sen!2scz!4v1627830958762!5m2!1sen!2scz" width="100%" height="400" style={{border:0}} allowfullscreen="" loading="lazy" />
+<Map src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10879.61819356828!2d4.8392708!3d47.0224786!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x63d7470a3d40dd6b!2sLes%20Popiettes!5e0!3m2!1sen!2scz!4v1627830958762!5m2!1sen!2scz" />
 
 <Gallery photos={[
 require('./photos/2021-07-19-les-popiettes/IMG_6719.jpg'),

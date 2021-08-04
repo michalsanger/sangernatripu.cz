@@ -5,6 +5,7 @@ tags: [Francie, Alsasko]
 
 import Photo from '/src/components/Photo'
 import Gallery from '/src/components/Gallery'
+import Map from '/src/components/Map'
 
 Cesta z Prahy do Burgundska trvá autem víc jak 10 hodin, bylo teda celkem potřeba se někde po cestě zastavit na oběd. Stuttgartem jsme projížděli celkem brzo, tak jsme si nakonec pauzu na oběd udělali až v Alsasku v malém městě Colmar.
 
@@ -38,3 +39,5 @@ Jako další možnosti jsem měl v záloze ještě tyto podniky:
 require('./photos/2021-07-19-brasserie-l-auberge-colmar/menu-du-jour.jpg'),
 require('./photos/2021-07-19-brasserie-l-auberge-colmar/ucet.jpg'),
 ]} />
+
+<Map src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10663.8115458021!2d7.3477051!3d48.0725523!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb730fa4ab4da17d3!2sRestaurant%20Brasserie%20l&#39;Auberge!5e0!3m2!1sen!2scz!4v1628118752572!5m2!1sen!2scz" />
