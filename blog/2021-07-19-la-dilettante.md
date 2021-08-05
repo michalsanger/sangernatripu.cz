@@ -25,7 +25,7 @@ require('./photos/2021-07-19-la-dilettante/IMG_6713.jpg'),
 require('./photos/2021-07-19-la-dilettante/IMG_6712.jpg'),
 ]} />
 
-Druhý den už jsme měli zarezervovaný stůl, takže jsme se mohli pustit do podrobnějšího studia jejich nabídky. Všechna jídla jsou zamýšlena jako malé degustační porce určené pro celý stůl a jako večeři bych to tady doporučil spíš pokud jste měli vydatný pozdní oběd. A to my jsme měli!
+Druhý den už jsme měli zarezervovaný stůl, takže jsme se mohli pustit do podrobnějšího studia jejich nabídky. Všechna jídla jsou zamýšlena jako malé degustační porce určené pro celý stůl a jako večeři bych to tady doporučil spíš pokud jste měli vydatný pozdní oběd. A to [my jsme měli](/2021/07/20/la-cabotte)!
 
 V nabídce je okolo deseti vín na skleničku, ale hlavní zábava je v regálu s lahvema. Personál umí dobře anglicky, takže je radost pokecat a dobrat se k nečemu zajímavému. Kromě vína mají i docela hodně piva a dokonce i různé japonské suroviny, protože manželka majitele je z Japonska.
 
