@@ -44,7 +44,7 @@ require('./photos/2021-07-20-domaine-faiveley/IMG_6767.jpg'),
 require('./photos/2021-07-20-domaine-faiveley/IMG_6768.jpg'),
 ]} />
 
-Místo plánované hodiny a půl se naše návštěva natáhla na skoro tři hodiny, už jsme pomalu ani nestíhali oběd, naštěstí nám náš průvodce jeden podnik doporučil a pomohl i s rezeravací na poslední chvíli po telefonu.
+Místo plánované hodiny a půl se naše návštěva natáhla na skoro tři hodiny, už jsme pomalu ani nestíhali oběd, naštěstí nám náš průvodce [jeden podnik doporučil](/2021/07/20/la-cabotte) a pomohl i s rezeravací na poslední chvíli po telefonu.
 
 Jejich exkluzivní vína mají i exkluzivní ceny, něco málo jsem si nakoupil na slavnostní příležitosti domů, držel jsem se rady, že nejzajímavější burgundská jsou bílá. Celkově bych svým laickým úsudkem tohle vinařství zhodnotil velmi kladně, přijde mi že se tady setkala touha dělat precizní vína, spičková lokalita i dostatek prostředků, takže na ničem nemuseli šetřit. Těším se až si někdy od nich dovezenou lahev otevřu!
 
