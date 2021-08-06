@@ -45,6 +45,12 @@ module.exports = {
     googleAnalytics: {
       trackingID: "UA-155577261-1",
     },
+    algolia: {
+      appId: "Q6MR4LN5JG",
+      apiKey: "1e062e279835e9ecf581f135c7d90b49",
+      indexName: "sangernatripu-cz",
+      placeholder: "Hledat na blogu",
+    },
   },
   presets: [
     [
