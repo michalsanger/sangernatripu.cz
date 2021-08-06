@@ -42,6 +42,9 @@ module.exports = {
     colorMode: {
       disableSwitch: true,
     },
+    googleAnalytics: {
+      trackingID: "UA-155577261-1",
+    },
   },
   presets: [
     [
