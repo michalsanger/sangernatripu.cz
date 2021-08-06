@@ -52,6 +52,8 @@ module.exports = {
           path: "./blog",
           routeBasePath: "/",
           showReadingTime: true,
+          blogSidebarTitle: "Všechny články",
+          blogSidebarCount: "ALL",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
