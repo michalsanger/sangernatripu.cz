@@ -1,6 +1,7 @@
 ---
 title: Musée Mémorial d'Omaha Beach
 tags: [Francie, Normandie, D-Day]
+date: 2021-07-22T11:00:00
 ---
 
 import Photo from '/src/components/Photo'

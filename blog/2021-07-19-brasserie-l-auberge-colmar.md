@@ -1,6 +1,7 @@
 ---
 title: Brasserie l'Auberge, Colmar, Alsasko
 tags: [Francie, Alsasko]
+date: 2021-07-19T12:00:00
 ---
 
 import Photo from '/src/components/Photo'

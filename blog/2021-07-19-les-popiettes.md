@@ -1,6 +1,7 @@
 ---
 title: Les Popiettes
 tags: [Francie, Burgundsko, Beaune, restaurace]
+date: 2021-07-19T20:00:00
 ---
 
 import Photo from '/src/components/Photo'
