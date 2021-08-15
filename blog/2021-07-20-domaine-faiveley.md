@@ -1,6 +1,7 @@
 ---
 title: Domaine Faiveley
 tags: [Francie, Burgundsko, Víno]
+date: 2021-07-20T11:00:00
 ---
 
 import Photo from '/src/components/Photo'

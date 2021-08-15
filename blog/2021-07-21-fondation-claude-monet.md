@@ -1,6 +1,7 @@
 ---
 title: Fondation Claude Monet
 tags: [Francie, Art]
+date: 2021-07-21T12:00:00
 ---
 
 import Photo from '/src/components/Photo'

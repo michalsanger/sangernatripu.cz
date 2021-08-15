@@ -1,6 +1,7 @@
 ---
 title: La Dilettante
 tags: [Francie, Burgundsko, Beaune, bistro]
+date: 2021-07-19T19:00:00
 ---
 
 import Photo from '/src/components/Photo'

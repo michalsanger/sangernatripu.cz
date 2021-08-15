@@ -1,6 +1,7 @@
 ---
 title: La Cabotte
 tags: [Francie, Burgundsko, restaurace]
+date: 2021-07-20T13:00:00
 ---
 
 import Photo from '/src/components/Photo'

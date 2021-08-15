@@ -1,6 +1,7 @@
 ---
 title: Vinohrady okolo Vosne-Romanée
 tags: [Francie, Burgundsko, Víno]
+date: 2021-07-20T16:00:00
 ---
 
 import Photo from '/src/components/Photo'

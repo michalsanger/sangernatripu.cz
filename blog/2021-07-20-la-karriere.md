@@ -1,6 +1,7 @@
 ---
 title: La Karrière
 tags: [Francie, Burgundsko, Art]
+date: 2021-07-20T15:00:00
 ---
 
 import Photo from '/src/components/Photo'

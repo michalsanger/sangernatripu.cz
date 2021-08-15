@@ -1,6 +1,7 @@
 ---
 title: Omaha Beach
 tags: [Francie, Normandie, D-Day]
+date: 2021-07-22T10:00:00
 ---
 
 import Photo from '/src/components/Photo'

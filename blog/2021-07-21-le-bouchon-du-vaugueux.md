@@ -1,6 +1,7 @@
 ---
 title: Le Bouchon Du Vaugueux, Caen
 tags: [Francie, Normandie, Caen, bistro]
+date: 2021-07-21T19:00:00
 ---
 
 import Photo from '/src/components/Photo'
