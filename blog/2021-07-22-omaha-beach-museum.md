@@ -8,7 +8,7 @@ import Photo from '/src/components/Photo'
 import Gallery from '/src/components/Gallery'
 import Map from '/src/components/Map'
 
-Jen Kousek od slavné pláže je muzeum věnované údálosti, která ji proslavila.
+Jen kousek od slavné pláže je muzeum věnované údálosti, která ji proslavila.
 
 <!-- truncate -->
 
