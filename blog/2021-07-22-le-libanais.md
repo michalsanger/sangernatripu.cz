@@ -18,7 +18,7 @@ To není totiž vůbec snadný, cestovat si po světě a být vegan. Zejména v 
 
 Jednak byli za rohem a druhák měli i přímo veganský degustační set, 5 studených a 5 teplých jídel za 16,90 EUR. Cenově stejně vyšel i non-vegan set, taky o 10 vzorcích klasických jídel jako falafel, baba ghanoush, hummus nebo tabbouleh. K pití mátový čaj za 1 EUR a nesedět na zahrádce, ale uvnitř ve stylovém a jako obvykle přeornamentovaném interiéru, tak je iluze Libanonu téměř dokonalá.
 
-Nebylo to určitě nejlepší middle eastern jídlo, co jsme kdy jedli, ale byla to vítaná změna po několikadenní naloži francouzských klasik.
+Nebylo to určitě nejlepší middle eastern jídlo, co jsme kdy jedli, ale byla to vítaná změna po několikadenní náloži francouzských klasik.
 
 <Gallery photos={[
 require('./photos/2021-07-22-le-libanais/IMG_6957.jpg'),
