@@ -15,7 +15,7 @@ export default function Photo({ photo }) {
         },
         img: isVertical
           ? { "object-fit": "contain", "max-height": "500px" }
-          : { "object-fit": "cover", "max-height": "500px" },
+          : { "object-fit": "cover", "max-height": "450px" },
       }}
     />
   );
