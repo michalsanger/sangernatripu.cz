@@ -18,7 +18,7 @@ Existence trhu je pro mě jeden z důležitých znaků místní gastronomické v
 
 Pořádá se pravidelně každou sobotu od 8 ráno do asi 2 odpoledne, přímo v historickém centru. Kromě dvou hlavních krytých tržnic je stánky zaplněn i okolní prostor včetně přilehlé ulice. Sortiment je striktně zaměřen na jídlo, od základních potravin po hotová jídla, která se ve velkém vaří na místě (grilovaná kuřata, paella, galletes i různá exotika třeba z jihovýchodní asie). Snad jedinou vyjímku tvořil konec přilehlé ulice, kde se prodávaly květiny.
 
-My naši návštěvu začali hned okolo 8 ráno, kdy už ale trh naplno frčel. Prvně jsme si to tam jen prošli a omrkli kde co mají, protože náš plán byl se tam prvně nasnídat a pak si nakoupit suroviny na takové to domácí vaření, [však víme](https://www.youtube.com/watch?v=A1xdrlerwI0&t=17s). Takhle brzo ještě k jídlu nebylo k dispozici nic jiného než crêpes, resp. galletes, což nám ale vůbec nevadilo. Spolu s děckama, co zjevně dorazily z nějaké afterparty, posnídat Galette-saucisse a spláchnout to suchým ciderem mi tady přišlo naprosto v pořádku.
+My naši návštěvu začali hned okolo 8 ráno, kdy už ale trh naplno frčel. Prvně jsme si to tam jen prošli a omrkli kde co mají, protože náš plán byl se tam prvně nasnídat a pak si nakoupit suroviny na takové to [domácí vaření](/2021/07/24/kure-na-cideru), [však víme](https://www.youtube.com/watch?v=A1xdrlerwI0&t=17s). Takhle brzo ještě k jídlu nebylo k dispozici nic jiného než crêpes, resp. galletes, což nám ale vůbec nevadilo. Spolu s děckama, co zjevně dorazily z nějaké afterparty, posnídat Galette-saucisse a spláchnout to suchým ciderem mi tady přišlo naprosto v pořádku.
 
 <Gallery photos={[
 require('./photos/2021-07-24-marche-des-lices/IMG_7013.jpg'),
