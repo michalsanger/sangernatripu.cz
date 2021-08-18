@@ -22,6 +22,12 @@ Convert HEIC to JPG:
 mogrify -format jpg *.heic
 ```
 
+All steps around photos in one command:
+
+```console
+unzip Photos.zip; mogrify -format jpg *.heic; rm Photos.zip *.heic
+```
+
 ## Build
 
 ```console
