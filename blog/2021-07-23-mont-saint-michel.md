@@ -42,7 +42,7 @@ Je možné si připlatit za komentovanou prohlídku a nebo si rozsáhlé prostor
 
 <Photo photo={require('./photos/2021-07-23-mont-saint-michel/IMG_6973.jpg')} />
 
-To se mi tady moc líbí, že to není exkurze v zástupu ohrádkama pod neustálým dohledem jak to často v památkách bývá. Je na každým jestli to chce proběhnout za 20 minut nebo si tady bloudit půl dne. Tolik času bych na druhou stranu ani neměl, chtěl jsem totiž stihnout otvíračku v La Mere Poulard ať chytnu stůl na oběd a ochutnám slavnou omeletu za litr!
+To se mi tady moc líbí, že to není exkurze v zástupu ohrádkama pod neustálým dohledem jak to často v památkách bývá. Je na každým jestli to chce proběhnout za 20 minut nebo si tady bloudit půl dne. Tolik času bych na druhou stranu ani neměl, chtěl jsem totiž stihnout otvíračku v [La Mère Poulard ať chytnu stůl na oběd](/2021/07/23/la-mere-poulard) a ochutnám slavnou omeletu za litr!
 
 <Gallery photos={[
 require('./photos/2021-07-23-mont-saint-michel/IMG_6977.jpg'),
