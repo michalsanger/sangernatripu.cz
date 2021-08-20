@@ -1,6 +1,6 @@
 ---
 title: Crêperie Sainte-Anne, Rennes
-tags: [Francie, Normandie, Rennes, restaurace]
+tags: [Francie, Bretaň, Rennes, restaurace]
 date: 2021-07-24T19:00:00
 ---
 
