@@ -16,7 +16,7 @@ Sem vedly naše kroky hned v podvečer po příjezdu do Beaune. Malé bistro s d
 
 Vlastně nám to hned po příjezdu úplně nevyšlo. Podnik je to totiž oblíbený a když jsem tam po cestě kolem poledne volal, že bychom okolo 7pm ve čtyřech rádi dorazili, dozvěděl jsem se že mají na celý večer plno. To ostatně má v Beaune asi každý aspoň trochu dobrý podnik. Na druhou stranu není nutné se tím úplně nechat odradit a to se nám tady vyplatilo.
 
-Řekli jsme si že tam stejně dorazíme, pokud to půjde dáme si skleničku třeba jen na stojáka, omrkneme jaké to tam vlastně je a uděláme si případně booking na další den. To se ukázalo jako skvělá strategie, jelikož kromě bookingu na příští den jsme dostali i tip na jiný podnik - Les Popiettes.
+Řekli jsme si že tam stejně dorazíme, pokud to půjde dáme si skleničku třeba jen na stojáka, omrkneme jaké to tam vlastně je a uděláme si případně booking na další den. To se ukázalo jako skvělá strategie, jelikož kromě bookingu na příští den jsme dostali i tip na jiný podnik - [Les Popiettes](/2021/07/19/les-popiettes).
 
 Ohledně pití venku na stojáka bych řekl, že to je celkem nouzovka, protože chodník je docela úzký a přilehlá silnice velmi rušná. Stáhli jsme tam jen láhev bublin, odegustovali prkénko charcuterie a ocenili že pohotově vymysleli i jednu veganskou chuťovku.
 
