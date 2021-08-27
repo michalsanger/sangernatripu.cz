@@ -26,7 +26,10 @@ module.exports = {
       links: [
         {
           title: "Info",
-          items: [{ to: "spoluprace", label: "Spolupráce" }],
+          items: [
+            { to: "spoluprace", label: "Spolupráce" },
+            { to: "technicke-info", label: "Technologie" },
+          ],
         },
         {
           title: "Odkazy",
