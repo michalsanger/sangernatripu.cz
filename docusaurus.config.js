@@ -26,10 +26,18 @@ module.exports = {
       links: [
         {
           title: "Info",
+          items: [{ to: "spoluprace", label: "Spolupráce" }],
+        },
+        {
+          title: "Odkazy",
           items: [
             {
               label: "Instagram",
               href: "https://www.instagram.com/michalsanger/",
+            },
+            {
+              label: "Ex blog",
+              href: "http://sanger.foodblogs.cz/",
             },
           ],
         },
