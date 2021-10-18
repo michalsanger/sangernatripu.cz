@@ -1,5 +1,4 @@
 import React from "react";
-import Image from "@theme/IdealImage";
 
 export default function Map({ src }) {
   return (
