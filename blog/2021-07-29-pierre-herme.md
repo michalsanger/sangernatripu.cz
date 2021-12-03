@@ -28,7 +28,8 @@ Makronky mě osobně nijak extra neberou, ale na webu jsem zjistil, že Pierre H
 
 <Gallery photos={[
 require('./photos/2021-07-29-pierre-herme/IMG_7297.jpg'),
+require('./photos/2021-07-29-pierre-herme/IMG_7298.jpg'),
 require('./photos/2021-07-29-pierre-herme/IMG_7354.jpg'),
 ]} />
 
-<Map src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d167985.83022125735!2d2.216151525887884!3d48.86243216820673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6719ddf0f022d%3A0xddc4a38d771fe198!2sBoutique%20Pierre%20Herm%C3%A9!5e0!3m2!1sen!2scz!4v1633023829084!5m2!1sen!2scz" />
+<Map src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d26957.11720019104!2d2.3187036831127226!3d48.84860622211213!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xddc4a38d771fe198!2sBoutique%20Pierre%20Herm%C3%A9!5e0!3m2!1sen!2scz!4v1638617565919!5m2!1sen!2scz" />
