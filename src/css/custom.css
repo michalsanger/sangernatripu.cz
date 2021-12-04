@@ -38,4 +38,5 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   margin: 4px;
   border: 1px solid #cacaca;
   border-radius: 4px;
+  overflow: hidden;
 }

@@ -22,7 +22,7 @@ export default function Gallery(props) {
         );
         return (
           <div className="photo" key={i}>
-            <a href={img.props.img.src.src}>{img}</a>
+            <a href={img.props.img?.src?.src}>{img}</a>
           </div>
         );
       })}
