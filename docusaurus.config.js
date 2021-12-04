@@ -27,6 +27,7 @@ module.exports = {
         {
           title: "Info",
           items: [
+            { to: "archiv", label: "Všechny články" },
             { to: "spoluprace", label: "Spolupráce" },
             { to: "technicke-info", label: "Technologie" },
           ],
@@ -72,8 +73,9 @@ module.exports = {
           path: "./blog",
           routeBasePath: "/",
           showReadingTime: true,
-          blogSidebarTitle: "Všechny články",
-          blogSidebarCount: "ALL",
+          blogSidebarTitle: "Nejnovější články",
+          blogSidebarCount: 20,
+          archiveBasePath: "archiv",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
