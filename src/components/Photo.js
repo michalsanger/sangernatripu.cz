@@ -2,7 +2,7 @@ import React from "react";
 import Image from "@theme/IdealImage";
 
 export default function Photo({ photo }) {
-  const isVertical = photo.src.width < photo.src.height;
+  const isVertical = photo?.src?.width < photo?.src?.height;
 
   const img = (
     <Image
@@ -22,7 +22,7 @@ export default function Photo({ photo }) {
 
   return (
     <div className="blogPostPhoto">
-      <a href={img.props.img.src.src}>{img}</a>
+      <a href={img.props.img?.src?.src}>{img}</a>
     </div>
   );
 }
