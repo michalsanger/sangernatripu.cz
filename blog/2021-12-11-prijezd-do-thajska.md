@@ -1,6 +1,6 @@
 ---
 title: Příjezd do Thajska
-tags: [travel, thai]
+tags: [travel, thai, Covid]
 ---
 
 import Gallery from '/src/components/Gallery'
