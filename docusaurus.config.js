@@ -54,9 +54,6 @@ module.exports = {
     colorMode: {
       disableSwitch: true,
     },
-    googleAnalytics: {
-      trackingID: "UA-155577261-1",
-    },
     algolia: {
       appId: "Q6MR4LN5JG",
       apiKey: "1e062e279835e9ecf581f135c7d90b49",
@@ -79,6 +76,9 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
+        },
+        googleAnalytics: {
+          trackingID: "UA-155577261-1",
         },
       },
     ],
