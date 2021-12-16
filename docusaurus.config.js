@@ -40,6 +40,10 @@ module.exports = {
               href: "https://www.instagram.com/michalsanger/",
             },
             {
+              label: "Twitter",
+              href: "https://twitter.com/sangernatripu/",
+            },
+            {
               label: "Ex blog",
               href: "http://sanger.foodblogs.cz/",
             },
