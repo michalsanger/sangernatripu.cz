@@ -11,7 +11,7 @@ Trh, kde to voní.
 
 <!-- truncate -->
 
-Kousek od slavných památek Wat Pho a Wat Arun je turisty celkem nepovšimnut květinový trh Pak Khlong Talat. Ačkoliv je teď v Bangkoku asi na všech památkách minimální nával, bylo fajn zajít si na tohle místo u řeky, kde byl dopoledne příjemný klid.
+Kousek od slavných památek [Wat Pho](/2021/12/30/wat-pho) a Wat Arun je turisty celkem nepovšimnut květinový trh Pak Khlong Talat. Ačkoliv je teď v Bangkoku asi na všech památkách minimální nával, bylo fajn zajít si na tohle místo u řeky, kde byl dopoledne příjemný klid.
 
 V ulicích okolo samotného trhu je spousta dalších obchodů s květinama, některé připomínají spíš velké chlaďáky, ale nás byla nejzajímavější krytá tržnice mezi ulicí Chakkraphet a řekou.
 
