@@ -28,6 +28,12 @@ All steps around photos in one command:
 unzip Photos.zip; mogrify -format jpg *.heic; rm Photos.zip *.heic
 ```
 
+Scafold a new blog post:
+
+```console
+yarn create-post <POST_FOLDER>
+```
+
 ## Build
 
 ```console
