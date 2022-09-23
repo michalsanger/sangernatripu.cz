@@ -1,20 +1,23 @@
-import fs from "fs";
-import path from "path";
-import { fileURLToPath } from "url";
+import { Command } from "commander";
+import { SAO } from "sao";
+import { resolve } from "path";
 
-const postDir = process.argv[2];
+function createInstance() {
+  return new Command("create-post")
+    .argument("<photos-file>", "Zip file with blog post photos")
+    .action(async (photosFile) => {
+      try {
+        const sao = new SAO({
+          generator: resolve("./src/scripts/"),
+          answers: { photos: photosFile },
+        });
 
-if (!postDir || postDir.length === 0) {
-  console.log("Post folder name must be set");
-  process.exit(1);
+        sao.run?.();
+      } catch (err) {
+        global.console.error(err);
+        process.exit(1);
+      }
+    });
 }
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-const template = fs.readFileSync(`${__dirname}/post-template.md`, "utf-8");
-const post = template.replaceAll("{POST_DIR}", postDir);
-
-fs.writeFileSync(`./blog/${postDir}.md`, post);
-fs.mkdirSync(`./blog/photos/${postDir}`);
-
-console.log("Blog post created!");
+createInstance().parse();
