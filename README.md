@@ -31,7 +31,7 @@ unzip Photos.zip; mogrify -format jpg *.heic; rm Photos.zip *.heic
 Scafold a new blog post:
 
 ```console
-yarn create-post <POST_FOLDER>
+yarn create-post <PHOTOS_ZIP>
 ```
 
 ## Build
