@@ -14,7 +14,6 @@ module.exports = {
         name: "title",
         type: "input",
         message: "Blog post title (required)",
-        default: () => "Test",
         validate: (v) => (v.length < 1 ? "title is required" : true),
       },
       {
@@ -57,7 +56,7 @@ module.exports = {
           await asyncExec(`cd ${photosDir} && rm Photos.zip *.HEIC`);
 
           // return list of unzipped photos
-          return fs.readdirSync("blog/photos/2022-09-24-test");
+          return fs.readdirSync(photosDir);
         },
       },
     ];
