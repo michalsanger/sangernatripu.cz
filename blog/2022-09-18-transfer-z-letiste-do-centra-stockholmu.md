@@ -1,6 +1,7 @@
 ---
 title: Transfer z letiště do centra Stockholmu
 tags: [travel, stockholm]
+date: 2022-09-18T09:00:00
 ---
 
 import Photo from '/src/components/Photo'
