@@ -41,4 +41,4 @@ require('./photos/2022-09-18-vasa-museum/IMG_4501.jpg'),
 require('./photos/2022-09-18-vasa-museum/IMG_4488.jpg'),
 ]} />
 
-<Map src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8141.18125811541!2d18.0913964!3d59.3280233!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcff09af1b4c13241!2sVasa%20Museum!5e0!3m2!1sen!2scz!4v1664490250653!5m2!1sen!2scz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" />
+<Map src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8141.18125811541!2d18.0913964!3d59.3280233!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcff09af1b4c13241!2sVasa%20Museum!5e0!3m2!1sen!2scz!4v1664490250653!5m2!1sen!2scz" />
