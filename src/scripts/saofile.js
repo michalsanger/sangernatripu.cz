@@ -50,10 +50,14 @@ module.exports = {
           await asyncExec(`cd ${photosDir} && unzip Photos.zip`);
 
           ctx.logger.info(`Convert photos to JPEG`);
-          await asyncExec(`cd ${photosDir} && mogrify -format jpg *.HEIC`);
+          await asyncExec(
+            `cd ${photosDir} && mogrify -format jpg *.[hH][eE][iI][cC]`
+          );
 
           ctx.logger.info(`Cleanup`);
-          await asyncExec(`cd ${photosDir} && rm Photos.zip *.HEIC`);
+          await asyncExec(
+            `cd ${photosDir} && rm Photos.zip *.[hH][eE][iI][cC]`
+          );
 
           // return list of unzipped photos
           return fs.readdirSync(photosDir);
