@@ -100,6 +100,7 @@ function getSlug(date, text) {
     .normalize("NFD")
     .replace(/\p{Diacritic}/gu, "")
     .replaceAll(",", "")
+    .replaceAll("°", "")
     .replaceAll(" ", "-")
     .toLowerCase()}`;
 }
