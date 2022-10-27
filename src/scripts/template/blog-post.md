@@ -1,6 +1,7 @@
 ---
 title: <%= title %>
 tags: []
+date: <%= date %>
 ---
 
 import Photo from '/src/components/Photo'

@@ -79,6 +79,7 @@ module.exports = {
           slug: getSlug(ctx.answers.date, ctx.answers.title),
           firstPhoto,
           photos,
+          date: `${ctx.answers.date.toFormat("yyyy-MM-dd")}T12:00:00`,
         },
       },
       {
@@ -98,6 +99,7 @@ function getSlug(date, text) {
   return `${(date ?? DateTime.now()).toFormat("yyyy-MM-dd")}-${text
     .normalize("NFD")
     .replace(/\p{Diacritic}/gu, "")
+    .replaceAll(",", "")
     .replaceAll(" ", "-")
     .toLowerCase()}`;
 }
