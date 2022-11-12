@@ -14,7 +14,7 @@ Sarajevský burek dělaný tradičně na dřevěném uhlí.
 
 Malý podnik ve čtvrti Baščaršija, historickém centru Sarajeva, má uvnitř asi 5 malých stolů a venku zahrádku co úzká ulička dovolí. A jak je malý interiér, tak je malé i menu. Dělají pouze burek a to ve variantě s masem, sýrem, zelím, dýní a nebo s bramborama.
 
-Důležitý detail je, že burek připravují klasicky v masivních kovových "nádobách" sač na dřevěném uhlí. Pec nebo spíš velkým komínem zastřešené ohniště je hned za prodejním pultem, ale samotný způsob přípravy příliš vidět není. Na borcovi co sače obsluhuje bylo ovšem vidět, že u pece je pořádné vedro. Mnohem lépe si lze sač v akci prohlédnout v Buregdžinici ASDž, která je hned za rohem.
+Důležitý detail je, že burek připravují klasicky v masivních kovových "nádobách" sač na dřevěném uhlí. Pec nebo spíš velkým komínem zastřešené ohniště je hned za prodejním pultem, ale samotný způsob přípravy příliš vidět není. Na borcovi co sače obsluhuje bylo ovšem vidět, že u pece je pořádné vedro. Mnohem lépe si lze sač v akci prohlédnout v [Buregdžinici ASDž](/2022/10/29/buregdzinica-asdz), která je hned za rohem.
 
 <Photo photo={require('./photos/2022-10-29-buregdzinica-sac/IMG_5041.jpg')} />
 
