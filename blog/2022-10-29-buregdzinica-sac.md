@@ -1,6 +1,6 @@
 ---
 title: Buregdžinica Sač
-tags: [sarajevo, burek]
+tags: [sarajevo, burek, bistro]
 date: 2022-10-29T10:00:00
 ---
 

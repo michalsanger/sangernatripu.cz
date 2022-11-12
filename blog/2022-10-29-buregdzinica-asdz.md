@@ -1,6 +1,6 @@
 ---
 title: Buregdžinica ASDž
-tags: [sarajevo, burek]
+tags: [sarajevo, burek, bistro]
 date: 2022-10-29T11:00:00
 ---
 
