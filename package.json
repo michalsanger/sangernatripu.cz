@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "commander": "^9.5.0",
-    "luxon": "^3.2.0",
+    "luxon": "^3.2.1",
     "sao": "2.0.0-beta.1"
   }
 }
