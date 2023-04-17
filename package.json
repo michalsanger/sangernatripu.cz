@@ -41,7 +41,7 @@
     ]
   },
   "devDependencies": {
-    "commander": "^10.0.0",
+    "commander": "^10.0.1",
     "luxon": "^3.3.0",
     "sao": "2.0.0-beta.1"
   }
