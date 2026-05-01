@@ -17,15 +17,15 @@
     "create-post": "node src/scripts/create-post.mjs"
   },
   "dependencies": {
-    "@docusaurus/core": "3.10.0",
-    "@docusaurus/plugin-ideal-image": "3.10.0",
-    "@docusaurus/preset-classic": "3.10.0",
+    "@docusaurus/core": "3.10.1",
+    "@docusaurus/plugin-ideal-image": "3.10.1",
+    "@docusaurus/preset-classic": "3.10.1",
     "@mdx-js/react": "3.1.1",
     "@svgr/webpack": "^8.1.0",
     "clsx": "^2.1.1",
     "file-loader": "^6.2.0",
-    "react": "19.2.4",
-    "react-dom": "19.2.4",
+    "react": "19.2.5",
+    "react-dom": "19.2.5",
     "url-loader": "^4.1.1"
   },
   "browserslist": {
